@@ -1,17 +1,47 @@
-# e_commerce_app
+# Flutter E-commerce App
 
-A new Flutter project.
+## About the Project
+
+This is an e-commerce application developed using Flutter and Dart. It provides a user-friendly shopping interface and demonstrates the development of an online shopping application using reusable Flutter widgets.
+
+## Features
+
+- Display products in a shopping interface
+- Browse available products
+- View product details
+- Navigate between application screens
+- Create a user-friendly shopping experience
+- Build reusable UI components
+
+## Technologies Used
+
+- Flutter
+- Dart
+
+## Concepts Learned
+
+- Stateless and Stateful Widgets
+- Widget Composition
+- Reusable Custom Widgets
+- Constructors and Parameter Passing
+- Navigation between Screens
+- Layouts using Row, Column, and Container
+- Responsive UI Design
+
+## Project Structure
+
+- `lib/` – Contains the application's Dart source code and screens.
+- `asset/` – Stores application images and other assets, if used.
+- `pubspec.yaml` – Defines project dependencies and asset configuration.
+- `main.dart` – Initializes and runs the Flutter application.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+1. Clone or download this repository.
+2. Open the project folder in Android Studio or VS Code.
+3. Run `flutter pub get` to install dependencies.
+4. Run `flutter run` to launch the application.
 
-A few resources to get you started if this is your first Flutter project:
+## Author
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Abinaya
